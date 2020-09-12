@@ -19,3 +19,5 @@ Interact with the all the results [here](https://app.wandb.ai/authors/knowledge-
 
 ## Acknowledgements
 I am grateful to [Aakash Kumar Nain](https://twitter.com/A_K_Nain) for providing valuable feedback on the code. 
+
+<div align="center"><img src="https://i.ibb.co/s9QhG6Y/Screen-Shot-2020-08-04-at-11-05-42-PM.png" width="700"></img></div>
